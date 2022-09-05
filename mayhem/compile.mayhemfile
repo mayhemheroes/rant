@@ -1,0 +1,7 @@
+project: rant
+target: compile
+
+cmds:
+  - cmd: /compile
+  - cmd: /compile_no_inst @@
+    libfuzzer: false
