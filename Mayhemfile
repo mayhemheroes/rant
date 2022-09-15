@@ -1,5 +1,0 @@
-project: rant
-target: rant
-
-cmds:
-    - cmd: ./rant @@
