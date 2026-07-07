@@ -1,0 +1,6 @@
+project: rant
+target: compile
+
+cmds:
+  - cmd: /mayhem/compile
+    libfuzzer: true

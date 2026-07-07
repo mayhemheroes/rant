@@ -1,0 +1,6 @@
+project: rant
+target: rant-cli
+
+cmds:
+  - cmd: /mayhem/run
+    libfuzzer: true
